@@ -1,0 +1,5 @@
+# Private key - NEVER push this to GitHub
+*.pem
+
+# Instance IDs (auto-generated)
+instance_ids.txt
